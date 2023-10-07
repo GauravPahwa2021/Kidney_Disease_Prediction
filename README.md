@@ -60,7 +60,11 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI=
+
+
 MLFLOW_TRACKING_USERNAME=
+
+
 MLFLOW_TRACKING_PASSWORD=
 python script.py
 

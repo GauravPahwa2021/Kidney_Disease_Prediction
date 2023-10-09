@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/GauravPahwa2021/Kidney_Disease_Prediction
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -59,26 +59,20 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=
-
-
-MLFLOW_TRACKING_USERNAME=
-
-
-MLFLOW_TRACKING_PASSWORD=
-
-
+MLFLOW_TRACKING_URI=https://dagshub.com/GauravPahwa2021/Kidney_Disease_Prediction.mlflow \
+MLFLOW_TRACKING_USERNAME=GauravPahwa2021 \
+MLFLOW_TRACKING_PASSWORD=34255e2baf836bf6327d7bb761b9ef93d83d0201 \
 python script.py
 
 Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=
+export MLFLOW_TRACKING_URI=https://dagshub.com/GauravPahwa2021/Kidney_Disease_Prediction.mlflow
 
-export MLFLOW_TRACKING_USERNAME=
+export MLFLOW_TRACKING_USERNAME=GauravPahwa2021
 
-export MLFLOW_TRACKING_PASSWORD=
+export MLFLOW_TRACKING_PASSWORD=34255e2baf836bf6327d7bb761b9ef93d83d0201
 
 ```
 

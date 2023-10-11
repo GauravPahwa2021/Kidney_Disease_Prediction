@@ -4,8 +4,8 @@
 ## Demo 
 
 <div>
-    <img src="images/coccidiosis.png" alt="coccidiosis" width="400"/>
-    <img src="images/healthy.png" alt="healthy" width="400"/>
+    <img src="Images/Normal.png" alt="coccidiosis" width="400"/>
+    <img src="Images/Tumor.png" alt="healthy" width="400"/>
 </div>
 
 

@@ -1,5 +1,14 @@
 # Kidney-Disease-Classification-MLflow-DVC
 
+
+## Demo 
+
+<div>
+    <img src="images/coccidiosis.png" alt="coccidiosis" width="400"/>
+    <img src="images/healthy.png" alt="healthy" width="400"/>
+</div>
+
+
 ## Workflows
 
 1. Update config.yaml
